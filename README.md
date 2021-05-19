@@ -1,5 +1,5 @@
 # LeetCode
 
 https://leetcode.com/hyuckang/
-- [Python3] (./python3)
-- [C++] (./C++)
+- [Python3](./Python3)
+- [C++](./C++)
